@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">MoviePager</string>
+  <string name="goto_bottom">Goto Bottom</string>
+  <string name="goto_top">Goto Top</string>
+</resources>
